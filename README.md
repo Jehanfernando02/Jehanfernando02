@@ -77,20 +77,6 @@ I care about writing **clean, maintainable code**, designing **systems that scal
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<br/>
-
-<img width="68%" src="https://github-readme-streak-stats.herokuapp.com/?user=jehanfernando02&theme=midnight-purple&hide_border=true&background=0d0d1a&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=888888"/>
-
-<br/><br/>
-
-<img width="88%" src="https://github-readme-activity-graph.vercel.app/graph?username=jehanfernando02&bg_color=0d0d1a&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" />
-
-</div>
-
 ## 🌐 Connect With Me
 
 <div align="center">
