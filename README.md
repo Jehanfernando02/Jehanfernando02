@@ -1,18 +1,171 @@
-<h1 align="center">Hi 👋, I'm Jehan Fernando</h1>
-<h3 align="center">A passionate full-stack developer from Sri Lanka</h3>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Jehan%20Fernando&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20Intern%20%40%20ICIEOS%20%7C%20CS%20Undergrad%20%40%20IIT%20%7C%20University%20of%20Westminster&descAlignY=58&descColor=a78bfa&animation=fadeIn" />
 
-- 👨‍💻 All of my projects are available at [https://jehanfdo.vercel.app/](https://jehanfdo.vercel.app/)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%7C+MERN+%7C+FastAPI+%7C+Spring+Boot;Shipping+production+code+%40+ICIEOS+since+2024+%F0%9F%9A%80;AWS+%7C+Docker+%7C+Kubernetes+%7C+CI%2FCD;Open+to+Associate+SE+Opportunities+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
+</a>
 
-- 📫 How to reach me **02jehanfernando@gmail.com**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jehan-fernando-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jehan-fernando-/" height="30" width="40" /></a>
+---
+
+## 👋 Who Am I
+
+I'm a **third-year Computer Science undergraduate** at the **Informatics Institute of Technology** (affiliated with the **University of Westminster**) and a **Full-Stack Developer Intern at ICIEOS**, where I work on real production systems across the full development lifecycle.
+
+I care about writing **clean, maintainable code**, designing **systems that scale**, and shipping features that genuinely make a difference. I bring **strong communication, adaptability, and ownership** to every team I'm part of — Agile or otherwise.
+
+📬 **02jehanfernando@gmail.com** &nbsp;|&nbsp; 🌐 **[jehanfdo.vercel.app](https://jehanfdo.vercel.app/)** &nbsp;|&nbsp; 📍 **Sri Lanka**
+
+---
+
+## 💼 What I'm Working On @ ICIEOS
+
+> *Full-Stack Developer Intern · Remote · Jun 2024 – Present*
+
+At ICIEOS I'm not just writing code — I'm contributing to **production-level applications** used by real users. My day-to-day involves:
+
+- 🔨 Building and maintaining **MERN stack** web applications end-to-end
+- 🐍 Designing and integrating **Python FastAPI** microservices and REST APIs
+- 💳 Implementing **Stripe & PayPal** payment gateway integrations
+- 💬 Integrating **Meta / WhatsApp Business API** for automated messaging workflows
+- ⚙️ Building automation pipelines with **n8n** to streamline business processes
+- 🗄️ Working with **MongoDB** and **PostgreSQL** in production database environments
+- 🔁 Collaborating in **Agile sprints** — from planning and code review to deployment
+
+---
+
+## 🛠️ Tech Stack
+
+### ⚡ Languages
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### 🖥️ Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jehanfernando02&show_icons=true&locale=en&layout=compact" alt="jehanfernando02" /></p>
+### 🔧 Backend & APIs
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white"/>
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+</p>
+
+### ☁️ Cloud, DevOps & Tools
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jehanfernando02&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d1a" />
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jehanfernando02&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0d0d1a"/>
+
+<br/>
+
+<img width="68%" src="https://github-readme-streak-stats.herokuapp.com/?user=jehanfernando02&theme=midnight-purple&hide_border=true&background=0d0d1a&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=888888"/>
+
+<br/><br/>
+
+<img width="88%" src="https://github-readme-activity-graph.vercel.app/graph?username=jehanfernando02&bg_color=0d0d1a&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" />
+
+</div>
+
+---
+
+## ✍️ I Write for Developers
+
+I publish technical articles on **Medium** aimed at students and early-career engineers — breaking down real concepts with real code.
+
+- 📖 **[Why Node.js + Express.js is the Ultimate Backend Combo](https://medium.com)** *(Jun 2025)*
+  — Routing, middleware, and scalable API design explained with side-by-side comparisons. Tailored for MERN stack learners.
+
+- ⚛️ **[React Hooks: The Game-Changer Every Developer Should Master](https://medium.com)** *(Jun 2025)*
+  — Deep-dive into `useState` & `useEffect` with real patterns, common pitfalls, and production-level best practices.
+
+> 💡 *Update the links above with your actual Medium profile URL.*
+
+---
+
+## 🏅 Certifications
+
+<p>
+  <img src="https://img.shields.io/badge/Full--Stack_Engineer-STEM_Link_·_MERN_Bootcamp-7c3aed?style=for-the-badge&logo=checkmarx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React_Essential_Training-LinkedIn_Learning-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions_CI%2FCD-LinkedIn_Learning-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+</p>
+
+---
+
+## 🤝 Volunteering
+
+- 🔌 **IEEE Member** — Nov 2023 – Present
+- 🌍 **Interact Club of St. Peter's College** — General Member *(2019 – 2021)*
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-jehanfdo.vercel.app-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://jehanfdo.vercel.app/)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jehan_Fernando-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jehan-fernando-/)
+&nbsp;
+[![Email](https://img.shields.io/badge/Gmail-02jehanfernando-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:02jehanfernando@gmail.com)
+&nbsp;
+[![Medium](https://img.shields.io/badge/Medium-@jehan-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Adaptable. Collaborative. Proactive — from design to deployment."*
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
+
+</div>
