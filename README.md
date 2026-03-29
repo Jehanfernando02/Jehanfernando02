@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Jehan%20Fernando&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20Intern%20%40%20ICIEOS%20%7C%20CS%20Undergrad%20%40%20IIT%20%7C%20University%20of%20Westminster&descAlignY=58&descColor=a78bfa&animation=fadeIn" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%7C+MERN+%7C+FastAPI+%7C+Spring+Boot;Shipping+production+code+%40+ICIEOS+since+2024+%F0%9F%9A%80;AWS+%7C+Docker+%7C+Kubernetes+%7C+CI%2FCD;Open+to+Associate+SE+Opportunities+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Full-Stack+Engineer+%7C+MERN+%7C+FastAPI+%7C+Spring+Boot;DevOps+Enthusiast+%7C+AWS+%7C+Docker+%7C+Kubernetes;CI%2FCD+%7C+Cloud+Infrastructure+%7C+Automation;Workflow+Automation+%7C+n8n;Designing+Scalable+%26+Reliable+Systems" alt="Typing SVG" />
 </a>
 
 </div>
@@ -17,22 +17,6 @@ I'm a **third-year Computer Science undergraduate** at the **Informatics Institu
 I care about writing **clean, maintainable code**, designing **systems that scale**, and shipping features that genuinely make a difference. I bring **strong communication, adaptability, and ownership** to every team I'm part of — Agile or otherwise.
 
 📬 **02jehanfernando@gmail.com** &nbsp;|&nbsp; 🌐 **[jehanfdo.vercel.app](https://jehanfdo.vercel.app/)** &nbsp;|&nbsp; 📍 **Sri Lanka**
-
----
-
-## 💼 What I'm Working On @ ICIEOS
-
-> *Full-Stack Developer Intern · Remote · Jun 2024 – Present*
-
-At ICIEOS I'm not just writing code — I'm contributing to **production-level applications** used by real users. My day-to-day involves:
-
-- 🔨 Building and maintaining **MERN stack** web applications end-to-end
-- 🐍 Designing and integrating **Python FastAPI** microservices and REST APIs
-- 💳 Implementing **Stripe & PayPal** payment gateway integrations
-- 💬 Integrating **Meta / WhatsApp Business API** for automated messaging workflows
-- ⚙️ Building automation pipelines with **n8n** to streamline business processes
-- 🗄️ Working with **MongoDB** and **PostgreSQL** in production database environments
-- 🔁 Collaborating in **Agile sprints** — from planning and code review to deployment
 
 ---
 
