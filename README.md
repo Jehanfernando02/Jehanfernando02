@@ -81,10 +81,6 @@ I care about writing **clean, maintainable code**, designing **systems that scal
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jehanfernando02&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d1a" />
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jehanfernando02&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0d0d1a"/>
-
 <br/>
 
 <img width="68%" src="https://github-readme-streak-stats.herokuapp.com/?user=jehanfernando02&theme=midnight-purple&hide_border=true&background=0d0d1a&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=888888"/>
@@ -94,39 +90,6 @@ I care about writing **clean, maintainable code**, designing **systems that scal
 <img width="88%" src="https://github-readme-activity-graph.vercel.app/graph?username=jehanfernando02&bg_color=0d0d1a&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" />
 
 </div>
-
----
-
-## ✍️ I Write for Developers
-
-I publish technical articles on **Medium** aimed at students and early-career engineers — breaking down real concepts with real code.
-
-- 📖 **[Why Node.js + Express.js is the Ultimate Backend Combo](https://medium.com)** *(Jun 2025)*
-  — Routing, middleware, and scalable API design explained with side-by-side comparisons. Tailored for MERN stack learners.
-
-- ⚛️ **[React Hooks: The Game-Changer Every Developer Should Master](https://medium.com)** *(Jun 2025)*
-  — Deep-dive into `useState` & `useEffect` with real patterns, common pitfalls, and production-level best practices.
-
-> 💡 *Update the links above with your actual Medium profile URL.*
-
----
-
-## 🏅 Certifications
-
-<p>
-  <img src="https://img.shields.io/badge/Full--Stack_Engineer-STEM_Link_·_MERN_Bootcamp-7c3aed?style=for-the-badge&logo=checkmarx&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React_Essential_Training-LinkedIn_Learning-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions_CI%2FCD-LinkedIn_Learning-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-</p>
-
----
-
-## 🤝 Volunteering
-
-- 🔌 **IEEE Member** — Nov 2023 – Present
-- 🌍 **Interact Club of St. Peter's College** — General Member *(2019 – 2021)*
-
----
 
 ## 🌐 Connect With Me
 
