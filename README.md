@@ -16,7 +16,7 @@ I'm a **third-year Computer Science undergraduate** at the **Informatics Institu
 
 I care about writing **clean, maintainable code**, designing **systems that scale**, and shipping features that genuinely make a difference. I bring **strong communication, adaptability, and ownership** to every team I'm part of — Agile or otherwise.
 
-📬 ** 02jehanfernando@gmail.com** &nbsp;|&nbsp; 🌐 **[jehanfdo.vercel.app](https://jehanfdo.vercel.app/)** &nbsp;|&nbsp;
+📬 **02jehanfernando@gmail.com** &nbsp;|&nbsp; 🌐 **[jehanfdo.vercel.app](https://jehanfdo.vercel.app/)** &nbsp;|&nbsp;
 
 ---
 
