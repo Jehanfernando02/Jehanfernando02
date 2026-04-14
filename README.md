@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Jehan%20Fernando&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20Intern%20%40%20ICIEOS%20%7C%20CS%20Undergrad%20%40%20IIT%20%7C%20University%20of%20Westminster&descAlignY=58&descColor=a78bfa&animation=fadeIn" />
 
@@ -10,7 +10,7 @@
 
 ---
 
-## Who Am I
+## Who Am I 👋
 
 I'm a **third-year Computer Science undergraduate** at the **Informatics Institute of Technology** (affiliated with the **University of Westminster**) and a **Full-Stack Developer Intern at ICIEOS**, where I work on real production systems across the full development lifecycle.
 
