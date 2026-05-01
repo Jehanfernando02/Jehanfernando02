@@ -10,7 +10,7 @@
 
 ---
 
-## Who Am I 👋
+## Who Am I 
 
 I'm a **third-year Computer Science undergraduate** at the **Informatics Institute of Technology** (affiliated with the **University of Westminster**) and a **Full-Stack Developer Intern at ICIEOS**, where I work on real production systems across the full development lifecycle.
 
