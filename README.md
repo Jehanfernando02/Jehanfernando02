@@ -74,6 +74,19 @@ I care about writing **clean, maintainable code**, designing **systems that scal
   <img height="25" src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
 </p>
 
+### 🤖 AI Engineering & Agentic Systems
+<p>
+  <img height="25" src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white"/>
+  <img height="25" src="https://img.shields.io/badge/LangGraph-FF6B35?style=flat-square&logo=graphql&logoColor=white"/>
+  <img height="25" src="https://img.shields.io/badge/ChromaDB-6E57E0?style=flat-square&logo=databricks&logoColor=white"/>
+  <img height="25" src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white"/>
+  <img height="25" src="https://img.shields.io/badge/MCP-Model_Context_Protocol-0F172A?style=flat-square"/>
+  <img height="25" src="https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-7C3AED?style=flat-square"/>
+  <img height="25" src="https://img.shields.io/badge/AI_Agents-Agentic_Workflows-0891B2?style=flat-square"/>
+  <img height="25" src="https://img.shields.io/badge/Prompt_Engineering-6366F1?style=flat-square"/>
+  <img height="25" src="https://img.shields.io/badge/Vector_Databases-9333EA?style=flat-square"/>
+</p>
+
 ---
 
 ## 🌐 Connect With Me 
