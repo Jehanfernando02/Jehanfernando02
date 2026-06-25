@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Jehan%20Fernando&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20Intern%20%40%20ICIEOS%20%7C%20CS%20Undergrad%20%40%20IIT%20%7C%20University%20of%20Westminster&descAlignY=58&descColor=a78bfa&animation=fadeIn" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Full-Stack+Engineer+%7C+MERN+%7C+FastAPI+%7C+Spring+Boot;DevOps+Enthusiast+%7C+AWS+%7C+Docker+%7C+Kubernetes;CI%2FCD+%7C+Cloud+Infrastructure+%7C+Automation;Workflow+Automation+%7C+n8n;Designing+Scalable+%26+Reliable+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Full-Stack+Engineer+%7C+MERN+%7C+FastAPI+%7C+Spring+Boot;AI+Engineering+%7C+LangChain+%7C+LangGraph+%7C+RAG;DevOps+Enthusiast+%7C+AWS+%7C+Docker+%7C+Kubernetes;CI%2FCD+%7C+Cloud+Infrastructure+%7C+Automation;Workflow+Automation+%7C+n8n+%7C+AI+Agents;Designing+Scalable+%26+Reliable+Systems" alt="Typing SVG" />
 </a>
 
 </div>
