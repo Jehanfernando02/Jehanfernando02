@@ -12,7 +12,7 @@
 
 ## Who Am I   👋
 
-I'm a **third-year Computer Science undergraduate** at the **Informatics Institute of Technology** (affiliated with the **University of Westminster**) and a **Full-Stack Developer Intern at ICIEOS**, where I work on real production systems across the full development lifecycle.
+I'm a **final year Computer Science undergraduate** at the **Informatics Institute of Technology** (affiliated with the **University of Westminster**) and a **Full-Stack Developer Intern at ICIEOS**, where I work on real production systems across the full development lifecycle.
 
 I care about writing **clean, maintainable code**, designing **systems that scale**, and shipping features that genuinely make a difference. I bring **strong communication, adaptability, and ownership** to every team I'm part of — Agile or otherwise.
 
