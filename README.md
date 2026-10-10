@@ -44,6 +44,14 @@ I care about writing **clean, maintainable code**, designing **systems that scal
 
 </p>
 
+### 📱 iOS Development
+<p>
+  <img height="25" src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/>
+  <img height="25" src="https://img.shields.io/badge/SwiftUI-0066CC?style=flat-square&logo=swift&logoColor=white"/>
+  <img height="25" src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white"/>
+  <img height="25" src="https://img.shields.io/badge/MVVM-6E57E0?style=flat-square&logoColor=white"/>
+</p>
+
 ### 🔧 Backend & APIs
 <p>
   <img height="25" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
