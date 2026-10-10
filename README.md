@@ -111,6 +111,36 @@ I care about writing **clean, maintainable code**, designing **systems that scal
 
 ---
 
+## 🏆 Certifications & Professional Learning
+
+### 🤖 AI & Machine Learning
+- Machine Learning with Python Professional Certificate — Anaconda
+- Artificial Intelligence Foundations: Machine Learning — LinkedIn Learning
+- Introduction to Modern AI — Cisco
+- Agents and Workflows — OpenAI
+
+### ☁️ Cloud, DevOps & Infrastructure
+- AWS Cloud Practitioner Essentials — AWS Training
+- AWS Knowledge: Compute — AWS
+- AWS Knowledge: Serverless — AWS
+- Microsoft Azure Essentials Professional Certificate — Microsoft and LinkedIn
+- Docker Foundations Professional Certificate — Docker
+- Introduction to Kubernetes (LFS158) — The Linux Foundation
+- Introduction to Linux (LFS101) — The Linux Foundation
+- Ubuntu Linux Professional Certificate — Canonical
+
+### 💻 Software Engineering & Development Tools
+- Software Engineer Certificate — HackerRank
+- Software Engineer Intern Certificate — HackerRank
+- API Testing Learning Path (V12) — Postman Academy
+- Career Essentials in GitHub — GitHub
+- Career Essentials in GitHub Copilot — GitHub
+
+### 🔐 Cybersecurity
+- Cybersecurity Fundamentals — IBM
+
+---
+
 ## 🌐 Connect With Me 
 
 <div align="center">
