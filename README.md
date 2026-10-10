@@ -85,6 +85,17 @@ I care about writing **clean, maintainable code**, designing **systems that scal
   <img height="25" src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
 </p>
 
+### 🧠 Machine Learning
+<p>
+  <img height="25" src="https://img.shields.io/badge/Machine_Learning-102230?style=flat-square&logo=scikitlearn&logoColor=F7931E"/>
+  <img height="25" src="https://img.shields.io/badge/Neural_Networks-8E44AD?style=flat-square"/>
+  <img height="25" src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+  <img height="25" src="https://img.shields.io/badge/Computer_Vision-0F9D58?style=flat-square"/>
+  <img height="25" src="https://img.shields.io/badge/Reinforcement_Learning-2563EB?style=flat-square"/>
+  <img height="25" src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+  <img height="25" src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white"/>
+</p>
+
 ### 🤖 AI Engineering & Agentic Systems
 <p>
   <img height="25" src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white"/>
